@@ -1,1 +1,1 @@
-<img width="1024" height="1024" alt="03-窗边折扇-去水印" src="https://github.com/user-attachments/assets/a4fd3d6b-4d7c-4cdb-87a1-5852ed023010" />
+<img width="1024" height="1024" alt="01-魔法街巷-去水印" src="https://github.com/user-attachments/assets/68f94510-866c-4274-ad1a-d11cf95333e7" />
